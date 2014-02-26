@@ -26,16 +26,31 @@ img {
     display: block;
 }
 
-.masthead {
-    background-color: black;
+body {
+    margin: 0;
+    padding: 0;
+}
+
+article {
+    margin: 0;
+    padding: 0 5%;
     overflow: hidden;
 }
 
-h1 { 
-    margin: 1.5rem 0;
-    background-color: blue;
-    color: white;
-    padding: .75rem;
+h1 {
+    font-family: Helvetica;
+    margin: 1rem, 0;
+    font-weight: bold;
+    font-size: 3.25rem;
+    line-height: 3rem;
+}
+
+h1 span {
+    color: gold;
+}
+
+
+    
     
         
     
