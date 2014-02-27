@@ -38,16 +38,32 @@ article {
 }
 
 h1 {
-    font-family: Helvetica;
-    margin: 1rem, 0;
+    font-family: Futura, serif;
+    margin: 3rem 0;
     font-weight: bold;
     font-size: 3.25rem;
-    line-height: 3rem;
+    line-height: 4rem;
+    background-color: lightblue;
+    padding: 1.5rem;
 }
 
 h1 span {
-    color: gold;
+    color: navy;
 }
+
+.dropcap:first-letter {
+    font-size: 6rem;
+    font-weight: bold;
+    float: left;
+    margin: 1.7rem .5rem 1rem 0;
+    color: lightblue
+}
+
+p {
+    line-height: 1.5rem;
+    margin: 0 0 1.5rem;
+}
+
 
 
     
