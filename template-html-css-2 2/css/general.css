@@ -20,7 +20,18 @@ html {
     
     font-size: 100%;
     
-    background-image: url(../images/waterripples.jpg)
+    background-image: url(../images/waterripples.jpg);
+}
+
+.masthead {
+    background-color: black;
+    overflow: hidden;
+}
+
+.logo {
+    height: 4.5rem;
+    width: auto;
+    margin: .5rem 5%;
 }
 
 img {
@@ -86,6 +97,7 @@ details {
     margin:  0 0 1rem;
     font-weight: bold;
     background-color: white;
+    padding: .55rem;
 }
 
 details p {
