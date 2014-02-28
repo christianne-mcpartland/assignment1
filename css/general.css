@@ -39,6 +39,10 @@ img {
     display: block;
 }
 
+hr {
+    color: white;
+}
+
 body {
     margin: 0;
     padding: 0;
@@ -60,6 +64,10 @@ h1 {
     color: white;
     padding: 1.5rem;
     text-align: center;
+}
+
+.billboard {
+    margin: inherit;
 }
 
 figcaption {
