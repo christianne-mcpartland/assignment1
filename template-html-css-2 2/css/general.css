@@ -92,8 +92,7 @@ p {
     line-height: 1.5rem;
     margin: 0 0 1.5rem;
     color: black;
-    background-color: white;
-    padding: .5rem;
+    font-weight: bolder;
 }
 
 details {
@@ -109,7 +108,33 @@ details p {
     margin: .5rem 2rem;
 }
 
+h3 {
+    font-family: serif;
+    color: black;
+    background-color: beige;
+    padding: .75rem;
+}
 
+ul {
+    color: white;
+    background-color: teal;
+}
+
+
+footer {
+    background-color: black;
+    overflow: hidden;
+}
+
+footer p {
+    font-size: .75rem;
+    margin: .5rem 5% 5rem;
+    color: white;
+}
+
+footer a {
+    color: white;
+}
 
 
 
