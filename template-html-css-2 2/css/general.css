@@ -110,9 +110,11 @@ details p {
 
 h3 {
     font-family: serif;
+    font-size: 1.5rem;
     color: black;
-    background-color: beige;
+    background-color: lightblue;
     padding: .75rem;
+    font-weight: bolder;
 }
 
 ul {
