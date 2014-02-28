@@ -51,13 +51,15 @@ article {
 }
 
 h1 {
-    font-family: Futura, serif;
+    font-family: Garamond, serif;
     margin: 3rem 0;
     font-weight: bold;
     font-size: 3.25rem;
     line-height: 4rem;
-    background-color: lightblue;
+    background-color: black;
+    color: white;
     padding: 1.5rem;
+    text-align: center;
 }
 
 figcaption {
@@ -65,10 +67,11 @@ figcaption {
     background-color: lightblue;
     font-weight: bold;
     padding: .5rem;
+    text-align: center;
 }
 
 h1 span {
-    color: navy;
+    color: lightblue;
 }
 
 h2 {
